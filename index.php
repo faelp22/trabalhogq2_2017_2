@@ -1,10 +1,17 @@
 <?php require_once 'header.php'; ?>
-<div class="container">
-    <?php require_once 'slide.php' ?>
-
-    <hr />
+<?php require_once 'slide.php' ?>
     <div class="conteudo">
-        
-        <h2>Opa!</h2>
+        <h2>Index!</h2>
+        <p>teste</p>
+        <p>teste</p>
+        <p>teste</p>
+        <p>teste</p>
+        <p>teste</p>
+        <p>teste</p>
+        <p>teste</p>
+        <p>teste</p>
+        <p>teste</p>
+        <p>teste</p>
+        <p>teste</p>
     </div>
 <?php require_once 'footer.php'; ?>
