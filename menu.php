@@ -8,7 +8,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">Nome do Site</a>
+          <a class="navbar-brand" href="index.php"><img src="assets/img/logo.png" style="margin-top: -14px;float: left;" alt="logo site" width="48" height="48"><span class="nome-logo">Nome do Site</span></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
